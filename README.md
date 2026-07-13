@@ -131,7 +131,17 @@ status: "compiling dreams into production code..."
 
 <img src="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-<sub>⚠️ To activate: enable the <code>snake.yml</code> GitHub Action in your repo (search "contribution-snake action" — free, one-time setup).</sub>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
 
 </div>
 
