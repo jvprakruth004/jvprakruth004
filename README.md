@@ -106,7 +106,7 @@ I'm a **Computer Science (AI)** student from **India** who believes in learning 
 
 ## 🏆 Achievements & Milestones
 
-- 🎓 Currently pursuing **Computer Science (AI)** degree
+- 🎓 Currently pursuing **BCA(CS & EH)** degree
 - 📜 **AWS Cloud Practitioner** certification
 - 🚀 Building projects that solve real-world problems
 - 💪 Committed to consistent learning & growth
@@ -159,7 +159,7 @@ I'd love to hear from you! Whether it's discussing tech, collaborating on projec
 
 - 💼 Open to **internships** and **freelance opportunities**
 - 👥 Always interested in **networking** with fellow developers
-- 📧 Reach out: **[your.email@gmail.com](mailto:your.email@gmail.com)**
+- 📧 Reach out: **[your.email@gmail.com](mailto:jvprakruth@gmail.com)**
 - 🌐 Visit my portfolio: **[your-portfolio.com](https://your-portfolio.com)**
 
 </div>
