@@ -127,10 +127,6 @@ status: "compiling dreams into production code..."
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
