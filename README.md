@@ -127,8 +127,6 @@ status: "compiling dreams into production code..."
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
