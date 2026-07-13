@@ -117,7 +117,7 @@ I'm a **Computer Science (AI)** student from **India** who believes in learning 
 | 🎬 Project | 📝 Description | 🛠️ Tech Stack | ✅ Status |
 |:-----------|:--------------|:-------------|:---------|
 | **[Furniture Industry Management System](https://github.com/jvprakruth004/furniture-management)** | Comprehensive system for furniture business operations | Node.js, React, MongoDB | 🔄 In Progress |
-| **[Birthday Website](https://github.com/jvprakruth004/birthday-website)** | Interactive & festive birthday celebration website | HTML, CSS, JavaScript | ✨ Completed |
+| **[Birthday Website](https://github.com/JVP00400/JENNY_BIRTHDAY.git)** | Interactive & festive birthday celebration website | HTML, CSS, JavaScript | ✨ Completed |
 | **[Node.js Projects](https://github.com/jvprakruth004/nodejs-projects)** | Collection of backend projects & experiments | Node.js, Express | 🔄 In Progress |
 | **[AI Projects](https://github.com/jvprakruth004/ai-projects)** | Machine learning & AI model implementations | Python, TensorFlow | 🔄 In Progress |
 | **[AWS Projects](https://github.com/jvprakruth004/aws-projects)** | Cloud infrastructure & automation solutions | AWS, Python | 🔄 In Progress |
