@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-I'm a **Computer Science (AI)** student from **India** who believes in learning by building. I'm passionate about creating impactful projects, solving real-world problems with code, and continuously exploring new technologies. I value consistency over perfection and thrive in collaborative environments where I can contribute meaningfully.
+I'm a **Computer Science** student from **India** who believes in learning by building. I'm passionate about creating impactful projects, solving real-world problems with code, and continuously exploring new technologies. I value consistency over perfection and thrive in collaborative environments where I can contribute meaningfully.
 
 ```yaml
 philosophy: "Build → Learn → Grow → Repeat"
